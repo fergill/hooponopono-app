@@ -139,15 +139,6 @@
    ssh -T git@github.com
    ```
 
-## ¿Cómo configurar tu usuario en Git?
-
-Ejecuta estos comandos en la terminal para establecer tu nombre y correo:
-
-```sh
-git config --global user.name "Fernanda Guerra"
-git config --global user.email "guerragil.fernanda@gmail.com"
-```
-
 Puedes verificar la configuración con:
 
 ```sh
@@ -162,3 +153,20 @@ App Android para practicar Ho'oponopono con contador, grabación e historial.
 
 - Utiliza ramas para nuevas funcionalidades y realiza pull requests para revisión.
 - Consulta el archivo `LICENSE` para información sobre el uso del código.
+
+## ¿Cómo subir los últimos cambios a GitHub?
+
+1. Añade los archivos modificados:
+   ```sh
+   git add .
+   ```
+
+2. Haz un commit con un mensaje descriptivo:
+   ```sh
+   git commit -m "Actualizar mockup y documentación"
+   ```
+
+3. Sube los cambios al repositorio remoto:
+   ```sh
+   git push
+   ```
