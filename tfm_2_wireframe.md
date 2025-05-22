@@ -1,4 +1,4 @@
-# Mockup - Aplicación Ho'oponopono
+# Wireframe - Aplicación Ho'oponopono
 
 ---
 
