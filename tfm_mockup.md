@@ -78,7 +78,7 @@
 
 ```text
 +-----------------------------------------------+
-|    [Logo Ho'oponopono]                       |
+|    [Logo Ho'oponopono]                        |
 |                                               |
 |  Bienvenido/a, Fernanda                       |
 |  "Hoy es un buen día para sanar y agradecer"  |  
@@ -96,7 +96,7 @@
 
 ```text
 +-----------------------------------------------+
-|  Mantra seleccionado: [Carrusel]  |
+|  Mantra seleccionado: [Carrusel]              |
 |   ("Gracias", "Lo siento", "Te amo", etc.)    |  
 |                                               |
 |  Últimos mantras repetidos:                   |
