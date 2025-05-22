@@ -104,7 +104,7 @@
 |                                               |
 |  [Grabar mantra]                              |
 |  [Historial de grabaciones]                   |
-|  [Configuración]                              |
+|  [Configuración de pantalla]                  |
 +-----------------------------------------------+
 ```
 
