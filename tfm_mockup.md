@@ -2,7 +2,7 @@
 
 ---
 
-## 0. Pantalla de Login
+## Pantalla de Login
 
 ```text
 +-----------------------------------------------+
@@ -20,7 +20,7 @@
 
 ---
 
-## 0b. Pantalla de Registro
+## Pantalla de Registro
 
 ```text
 +-----------------------------------------------+
@@ -39,7 +39,7 @@
 
 ---
 
-## 0c. Pantalla de Recuperar Contraseña
+## Pantalla de Recuperar Contraseña
 
 ```text
 +-----------------------------------------------+
@@ -56,7 +56,7 @@
 
 ---
 
-## 0d. Pantalla de Restablecer Contraseña
+## Pantalla de Restablecer Contraseña
 
 ```text
 +-----------------------------------------------+
@@ -74,7 +74,7 @@
 
 ---
 
-## 1. Pantalla de Inicio
+## Pantalla de Inicio
 
 ```text
 +-----------------------------------------------+
@@ -89,7 +89,7 @@
 
 ---
 
-## 2. Pantalla Principal
+## Pantalla Principal
 
 ```text
 +-----------------------------------------------+
@@ -110,7 +110,7 @@
 
 ---
 
-## 2a. Pantalla de Reproducción Manual
+## Pantalla de Reproducción Manual
 
 ```text
 +-----------------------------------------------+
@@ -128,7 +128,7 @@
 
 ---
 
-## 2b. Pantalla de Reproducción Automática
+## Pantalla de Reproducción Automática
 
 ```text
 +-----------------------------------------------+
@@ -148,7 +148,7 @@
 
 ---
 
-## 2c. Pantalla de Configuración de Pantalla
+## Pantalla de Configuración de Pantalla
 
 ```text
 +-----------------------------------------------+
@@ -164,7 +164,7 @@
 
 ---
 
-## 2d. Pantalla de Configuración de Usuario
+## Pantalla de Configuración de Usuario
 
 ```text
 +-----------------------------------------------+
@@ -181,7 +181,7 @@
 
 ---
 
-## 3. Pantalla de Grabación
+## Pantalla de Grabación
 
 ```text
 +-----------------------------------------------+
@@ -196,7 +196,7 @@
 
 ---
 
-## 4. Pantalla de Historial
+## Pantalla de Historial
 
 ```text
 +-----------------------------------------------+
@@ -214,9 +214,11 @@
 
 ## Menú de Opciones
 
----------------------------------
+```text
+
++-------------------------------+
 |           Menú                |
-|-------------------------------|
++-------------------------------+
 |  [Principal]                  |
 |  [Reproducción manual]        |
 |  [Reproducción automática]    |
@@ -225,4 +227,4 @@
 |  [Configuración de pantalla]  |
 |  [Configuración de usuario]   |
 |  [Cerrar sesión]              |
----------------------------------
++-------------------------------+
