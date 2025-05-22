@@ -139,6 +139,21 @@
    ssh -T git@github.com
    ```
 
+## ¿Cómo configurar tu usuario en Git?
+
+Ejecuta estos comandos en la terminal para establecer tu nombre y correo:
+
+```sh
+git config --global user.name "Fernanda Guerra"
+git config --global user.email "guerragil.fernanda@gmail.com"
+```
+
+Puedes verificar la configuración con:
+
+```sh
+git config --global --list
+```
+
 ## Descripción para el repositorio GitHub
 
 App Android para practicar Ho'oponopono con contador, grabación e historial.
