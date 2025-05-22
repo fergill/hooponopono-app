@@ -6,7 +6,7 @@
 
 ```text
 +-----------------------------------------------+
-|    [Logo Ho'oponopono]                       |
+|    [Logo Ho'oponopono]                        |
 |                                               |
 |  Usuario:           [___________]             |
 |  Contraseña:        [___________]             |
@@ -24,7 +24,7 @@
 
 ```text
 +-----------------------------------------------+
-|    [Logo Ho'oponopono]                       |
+|    [Logo Ho'oponopono]                        |
 |                                               |
 |  Nombre:             [___________]            |
 |  Correo electrónico: [___________]            |
@@ -43,7 +43,7 @@
 
 ```text
 +-----------------------------------------------+
-|    [Logo Ho'oponopono]                       |
+|    [Logo Ho'oponopono]                        |
 |                                               |
 |  Recuperar contraseña                         |
 |                                               |
@@ -60,7 +60,7 @@
 
 ```text
 +-----------------------------------------------+
-|    [Logo Ho'oponopono]                       |
+|    [Logo Ho'oponopono]                        |
 |                                               |
 |  Restablecer contraseña                       |
 |                                               |
@@ -81,9 +81,9 @@
 |    [Logo Ho'oponopono]                       |
 |                                               |
 |  Bienvenido/a, Fernanda                       |
-|  "Hoy es un buen día para sanar y agradecer"  |  // Frase inspiradora
+|  "Hoy es un buen día para sanar y agradecer"  |  
 |                                               |
-|  Práctica acumulada: 120 minutos              |  // Estadística ejemplo
+|  Práctica acumulada: 120 minutos              |  
 |                                               |
 |  [Iniciar práctica]                           |
 |  [Historial de grabaciones]                   |
@@ -96,8 +96,8 @@
 
 ```text
 +-----------------------------------------------+
-|  Mantra seleccionado: [Desplegable/Carrusel]  |
-|   ("Gracias", "Lo siento", "Te amo", etc.)    |  // Selección de mantra
+|  Mantra seleccionado: [Carrusel]  |
+|   ("Gracias", "Lo siento", "Te amo", etc.)    |  
 |                                               |
 |  Últimos mantras repetidos:                   |
 |   1. "Gracias"                                |
@@ -135,19 +135,19 @@
 ## Pantalla de Reproducción Automática
 
 ```text
-+-----------------------------------------------+
-|  Mantra: "Lo siento..."                       |
-|                                               |
-|  [Contador: 0 / 108]                          |
-|                                               |
-|  [Modo automático: ON]                        |
-|  [Velocidad: 2 seg/mantra] [Barra de velocidad]|
-|                                               |
-|  [Barra de progreso]                          |
-|  [Pausar]   [Detener]                         |
-|                                               |
-|  [Volver a principal]                         |
-+-----------------------------------------------+
++-------------------------------------------------+
+|  Mantra: "Lo siento..."                         |
+|                                                 |
+|  [Contador: 0 / 108]                            |
+|                                                 |
+|  [Modo automático: ON]                          |
+|  [Velocidad: 2 seg/mantra] [Barra de velocidad] |
+|                                                 |
+|  [Barra de progreso]                            |
+|  [Pausar]   [Detener]                           |
+|                                                 |
+|  [Volver a principal]                           |
++-------------------------------------------------+
 ```
 
 ---
@@ -179,7 +179,7 @@
 |  Cambiar contraseña                           |
 |  [Botón Guardar cambios]                      |
 |                                               |
-|  [Cerrar sesión]                              |  // Botón específico
+|  [Cerrar sesión]                              |  
 |  [Volver a principal]                         |
 +-----------------------------------------------+
 ```
@@ -192,11 +192,11 @@
 +-----------------------------------------------+
 |  Graba tu mantra personalizado                |
 |                                               |
-|  Título/Descripción: [____________________]   |  // Campo para título o descripción
+|  Título/Descripción: [____________________]   |  
 |                                               |
 |  [Botón Grabar]   [Botón Detener]             |
 |                                               |
-|  [Escuchar antes de guardar]                  |  // Previsualización
+|  [Escuchar antes de guardar]                  |  
 |                                               |
 |  [Guardar grabación]   [Cancelar]             |
 |  [Volver a principal]                         |
@@ -211,7 +211,7 @@
 +-----------------------------------------------+
 |  Historial de grabaciones                     |
 |                                               |
-|  [Grabación 1] [Reproducir] [★] [Eliminar]    |  // Favorito y eliminar
+|  [Grabación 1] [Reproducir] [★] [Eliminar]    |  
 |  [Grabación 2] [Reproducir] [ ] [Eliminar]    |
 |  ...                                          |
 |                                               |
