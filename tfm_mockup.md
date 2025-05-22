@@ -81,6 +81,9 @@
 |    [Logo Ho'oponopono]                       |
 |                                               |
 |  Bienvenido/a, Fernanda                       |
+|  "Hoy es un buen día para sanar y agradecer"  |  // Frase inspiradora
+|                                               |
+|  Práctica acumulada: 120 minutos              |  // Estadística ejemplo
 |                                               |
 |  [Iniciar práctica]                           |
 |  [Historial de grabaciones]                   |
@@ -93,7 +96,8 @@
 
 ```text
 +-----------------------------------------------+
-|  Mantra seleccionado: "Lo siento..."          |
+|  Mantra seleccionado: [Desplegable/Carrusel]  |
+|   ("Gracias", "Lo siento", "Te amo", etc.)    |  // Selección de mantra
 |                                               |
 |  Últimos mantras repetidos:                   |
 |   1. "Gracias"                                |
@@ -175,6 +179,7 @@
 |  Cambiar contraseña                           |
 |  [Botón Guardar cambios]                      |
 |                                               |
+|  [Cerrar sesión]                              |  // Botón específico
 |  [Volver a principal]                         |
 +-----------------------------------------------+
 ```
@@ -187,7 +192,11 @@
 +-----------------------------------------------+
 |  Graba tu mantra personalizado                |
 |                                               |
+|  Título/Descripción: [____________________]   |  // Campo para título o descripción
+|                                               |
 |  [Botón Grabar]   [Botón Detener]             |
+|                                               |
+|  [Escuchar antes de guardar]                  |  // Previsualización
 |                                               |
 |  [Guardar grabación]   [Cancelar]             |
 |  [Volver a principal]                         |
@@ -202,8 +211,8 @@
 +-----------------------------------------------+
 |  Historial de grabaciones                     |
 |                                               |
-|  [Grabación 1] [Reproducir]                   |
-|  [Grabación 2] [Reproducir]                   |
+|  [Grabación 1] [Reproducir] [★] [Eliminar]    |  // Favorito y eliminar
+|  [Grabación 2] [Reproducir] [ ] [Eliminar]    |
 |  ...                                          |
 |                                               |
 |  [Volver a principal]                         |
@@ -228,3 +237,4 @@
 |  [Configuración de usuario]   |
 |  [Cerrar sesión]              |
 +-------------------------------+
+```
