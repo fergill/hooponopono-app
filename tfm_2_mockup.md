@@ -215,7 +215,7 @@
 |  [Grabación 2] [Reproducir] [ ] [Eliminar]    |
 |  ...                                          |
 |                                               |
-|  [Volver a principal]                         |
+|  [Volver a principal  ]                         |
 +-----------------------------------------------+
 ```
 
